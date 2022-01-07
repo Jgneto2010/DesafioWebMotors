@@ -1,0 +1,304 @@
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.Development.json
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.json
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.exe
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.deps.json
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.json
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.dev.json
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ref\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\RestSharp.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.CodeDom.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csprojAssemblyReference.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfoInputs.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfo.cs
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CoreCompileInputs.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\staticwebassets\ChallengeWebMotors.StaticWebAssets.Manifest.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\staticwebassets\ChallengeWebMotors.StaticWebAssets.xml
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\scopedcss\bundle\ChallengeWebMotors.styles.css
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.RazorTargetAssemblyInfo.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CopyComplete
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ref\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.genruntimeconfig.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.json
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.StaticWebAssets.xml
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.exe
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.deps.json
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.json
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.dev.json
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ref\ChallengeWebMotors.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.AssemblyReference.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfoInputs.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfo.cs
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CoreCompileInputs.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\scopedcss\bundle\ChallengeWebMotors.styles.css
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\staticwebassets\ChallengeWebMotors.StaticWebAssets.Manifest.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.RazorTargetAssemblyInfo.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CopyComplete
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ref\ChallengeWebMotors.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.genruntimeconfig.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.Development.json
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.json
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.exe
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.deps.json
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.json
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.dev.json
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\ref\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\RestSharp.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.CodeDom.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csprojAssemblyReference.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfoInputs.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfo.cs
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CoreCompileInputs.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\staticwebassets\ChallengeWebMotors.StaticWebAssets.Manifest.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\staticwebassets\ChallengeWebMotors.StaticWebAssets.xml
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\scopedcss\bundle\ChallengeWebMotors.styles.css
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.RazorTargetAssemblyInfo.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CopyComplete
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ref\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.genruntimeconfig.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.Development.json
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\appsettings.json
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.exe
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.deps.json
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.json
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.runtimeconfig.dev.json
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ref\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\ChallengeWebMotors.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\EntityFramework.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\RestSharp.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.CodeDom.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Infra.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\bin\Debug\net5.0\Domain.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csprojAssemblyReference.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfoInputs.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.AssemblyInfo.cs
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CoreCompileInputs.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\staticwebassets\ChallengeWebMotors.StaticWebAssets.Manifest.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\staticwebassets\ChallengeWebMotors.StaticWebAssets.xml
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\scopedcss\bundle\ChallengeWebMotors.styles.css
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.RazorTargetAssemblyInfo.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.csproj.CopyComplete
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ref\ChallengeWebMotors.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\ChallengeWebMotors\obj\Debug\net5.0\ChallengeWebMotors.genruntimeconfig.cache

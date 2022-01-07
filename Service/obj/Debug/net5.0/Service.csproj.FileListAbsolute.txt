@@ -1,0 +1,60 @@
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\bin\Debug\net5.0\Service.deps.json
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\bin\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\bin\Debug\net5.0\ref\Service.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\bin\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\bin\Debug\net5.0\Domain.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\bin\Debug\net5.0\Domain.pdb
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\ref\Service.dll
+D:\Projetos-João Garcia\Desafio _WebMotors\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\bin\Debug\net5.0\Service.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\bin\Debug\net5.0\Domain.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\bin\Debug\net5.0\Domain.pdb
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\Julianno\Downloads\ChallengeWebMotors\Service\obj\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\bin\Debug\net5.0\Service.deps.json
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\bin\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\bin\Debug\net5.0\ref\Service.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\bin\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\bin\Debug\net5.0\Domain.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\bin\Debug\net5.0\Domain.pdb
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\ref\Service.dll
+D:\Projetos-João Garcia\Novo desafio WebMotors\Service\obj\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\bin\Debug\net5.0\Service.deps.json
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\bin\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\bin\Debug\net5.0\ref\Service.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\bin\Debug\net5.0\Service.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\bin\Debug\net5.0\Domain.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\bin\Debug\net5.0\Domain.pdb
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\ref\Service.dll
+D:\Projetos-João Garcia\DesafioWebMotors\DesafioWebMotors\Service\obj\Debug\net5.0\Service.pdb
